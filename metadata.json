@@ -1,1 +1,1 @@
-{"uuid": "ls -al", "name": "JiraTasks", "description": "Shows assigned JIRA Tasks in Topbar", "shell-version": ["3.18.5"]}
+{"uuid": "jiratasks", "name": "JiraTasks", "description": "Shows assigned JIRA Tasks in Topbar", "shell-version": ["3.18.5"]}
